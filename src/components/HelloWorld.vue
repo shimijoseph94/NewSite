@@ -4,8 +4,8 @@
      <div class="img-wrapper">
            <img src="https://images.unsplash.com/photo-1465220183275-1faa863377e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
               <div class="overlay">
-               <div class="text"><strong> <h2 style="color:black;">Welcome to Niall's website</h2></strong></div>
-                <h2 style="color:black;" ><strong>Dr Niall McCann Explorer, Biologist</strong></h2>
+               <div class="text"><strong> <h2 style="color:black;">Welcome to ROM WHITAKER website</h2></strong></div>
+                <h2 style="color:black;" ><strong>ROM WHITAKER</strong></h2>
                  <button class="button"><strong>GET IN TOUCH</strong></button>
                </div>
       </div>
