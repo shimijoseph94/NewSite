@@ -484,7 +484,7 @@
     
 <!-- Contact Niall  -->
 <div class="ftt">
-  <!--<div  v-if="seen">-->
+  <div  v-if="!seen">
     <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
            <h4 style="text-align:center; color:#f6142a;"><strong>Contact Niall</strong></h4>
         <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
@@ -497,16 +497,18 @@
          <br>
            <h5 style="text-align:center color:#f44336;">Or to write to Niall directly:</h5>
          <br>
-     </div> 
+     </div>
+     
          <button class="button"  v-on:click="seen =!seen">Drop Niall a Line</button>
-        
+        </div>
 
         
- <!-- </div>-->
+  
 </div>
 
 <!--Contact-->
-<!--<div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
+ <div v-if="seen">
+<div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
    <h4 style="text-align:center; color:#f6142a;">Drop nail a line</h4>
   </div>
    <div style="width:800px; margin:0 auto;"> 
@@ -523,7 +525,7 @@
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>
   <br>
-  </div>-->
+  </div></div>
 
 
 </div>
@@ -540,7 +542,9 @@
             };
            },
            
-         
+     moun:{
+       seen:true
+     } ,   
     methods: {
     onSlideStart(slide) {
       this.sliding = true;
