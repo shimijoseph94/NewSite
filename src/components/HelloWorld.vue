@@ -4,9 +4,9 @@
      <div class="img-wrapper">
            <img src="https://images.unsplash.com/photo-1465220183275-1faa863377e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
               <div class="overlay">
-               <div class="text"><strong> <h2 style="color:black;">Welcome to Niall's website</h2></strong></div>
-                <h2 style="color:black;" ><strong>Dr Niall McCann Explorer, Biologist</strong></h2>
-                 <button class="button"><strong>GET IN TOUCH</strong></button>
+               <div class="text"><strong> <h2 style="color:black;">Welcome to  website</h2></strong></div>
+                <h5 style="color:black;" ><strong>Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel</strong></h5>
+                 <button class="button"><strong>GET STARTED</strong></button>
                </div>
       </div>
 <!-- About -->
@@ -18,28 +18,28 @@
               
               <div class="col-md-4">
                  <div class="sn">
-                    <b-img width="220%" padding-top:unset padding-left:80px height="auto" rounded="circle"  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4e0ec328-b380-403f-b31a-093ddfe1e6e0.JPG/:/cr=t:0%25,l:6.22%25,w:66.68%25,h:100%25/rs=w:223,h:223,cg:true" alt="Circle image"  />
-                       <h6 class="sn" style="color:black;padding-top:44px;"><strong>Background</strong></h6>
-                       <h6 class="sn" style="color:black;padding-top:44px;">Explorer, biologist and front line conservationist</strong></h6>
+                    <b-img width="220%" padding-top:unset padding-left:80px height="auto" rounded="circle"  src="https://www.africansnakebiteinstitute.com/wp-content/uploads/2018/11/Luke-Kemp-Coega-EC.1jpg-150x150.jpg" alt="Circle image"  />
+                       <h6 class="sn" style="color:black;padding-top:44px;"><strong>Heading</strong></h6>
+                       <h6 class="sn" style="color:black;padding-top:44px;">Integer pulvinar leo id viverra feugiat. Pellentesque</strong></h6>
                        <br><button class="button"><strong>Find Out More</strong></button>
                   </div>
              </div>
       
             <div class="col-md-4">
                 <div class="sn">
-                  <b-img width="220%"   height="auto" padding-left:80 rounded="circle"  src=" https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/04506a57-8ffc-438d-bfbf-cfdcf1b76fd3.jpg/:/cr=t:9.68%25,l:17.19%25,w:57.6%25,h:80.65%25/rs=w:223,h:223,cg:true,m"/>
-                     <h6 class="sn" style="color:black;padding-top:44px;"><strong>Speaking</strong></h6>
-                     <h6 class="sn" style="color:black;padding-top:44px">Dynamic motivational speaker with an unrivalled catalogue of achievements</strong></h6></h6>
-                     <button class="button"><strong>Find Out More</strong></button>
+                  <b-img width="220%"   height="auto" padding-left:80 rounded="circle"  src="https://www.africansnakebiteinstitute.com/wp-content/uploads/2018/11/Luke-Kemp-Coega-EC.1jpg-150x150.jpg"/>
+                     <h6 class="sn" style="color:black;padding-top:44px;"><strong>Heading</strong></h6>
+                     <h6 class="sn" style="color:black;padding-top:44px">Integer pulvinar leo id viverra feugiat. Pellentesque</strong></h6></h6>
+                     <br><button class="button"><strong>Find Out More</strong></button>
                 </div>
             </div>
            
            <div class="col-md-4">
              <div class="sn">
-               <b-img width="220%"    height="auto"  padding-right:90px rounded="circle"  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/1a183255-ade0-4dcb-b273-bcd1a85e21bb.JPG/:/cr=t:0%25,l:18.98%25,w:66.68%25,h:100%25/rs=w:223,h:223,cg:true" />
-                 <h6 class="sn" style="color:black;padding-top:44px;"><strong>Media</strong></h6>
-                 <h6 class="sn" style="color:black;padding-top:50px;">Award-winning presenter of natural history documentaries shown worldwide</h6>
-                  <button class="button"><strong>Find Out More</strong></button>
+               <b-img width="220%"    height="auto"  padding-right:90px rounded="circle"  src="https://www.africansnakebiteinstitute.com/wp-content/uploads/2018/11/Luke-Kemp-Coega-EC.1jpg-150x150.jpg"/>
+                 <h6 class="sn" style="color:black;padding-top:44px;"><strong>Heading</strong></h6>
+                 <h6 class="sn" style="color:black;padding-top:50px;">Integer pulvinar leo id viverra feugiat. Pellentesque</h6>
+                 <br><button class="button"><strong>Find Out More</strong></button>
              </div>
            </div>
 
@@ -52,156 +52,101 @@
 <!-- Background -->
 <div class="ft">
     <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-        <h4 style="text-align:center; color:#f6142a;">Background</h4>
+        <h4 style="text-align:center; color:#f6142a;">Heading</h4>
          <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
          </div>
             <div class="row">
 
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <div class="sn">
-                 <h4 style="text-align:center color:black;">An adventurous bloodline</h4>
+                 <h4 style="text-align:center color:black;">Heading</h4>
                   <img
                      width="80%"
                      height="auto"
-                     src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/964399b6-7d83-43cd-97c9-63a786a1b303.JPG/:/cr=t:0.77%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
+                     src="https://templated.co/items/demos/fervency/images/scr03.jpg"
                      class="attachment-medium size-medium"
                      alt=""
                      />
-                 <h6 class="sn" style="color:black;  padding-top:40px;">Niall's grandfather won the Founder's Medal from the Royal Geographical Society in 1952 for Arctic exploration. Introduced to adventures from an early age, Niall has followed in his grandfather's footsteps.  </h6>
+                 <h6 class="sn" style="color:black;  padding-top:40px;">Fermentum nibh augue praesent a lacus at urna congue rutrum. </h6>
+                 <button class="button"><strong>Find Out More</strong></button>
                 </div>
               </div>
 
-      <div class="col-md-4">
+      <div class="col-md-3">
          <div class="sn">
-           <h4 style="text-align:center color:black;">Remote area biological research</h4>
+           <h4 style="text-align:center color:black;">Heading</h4>
             <img
                  width="80%"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/cef11f95-39b2-4176-b8f7-be4f00af9db0.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
+                  src="https://templated.co/items/demos/fervency/images/scr03.jpg"
                   class="attachment-medium size-medium"
                   alt=""
                   />
-               <h6 class="sn" style="color:black;padding-top:44px; ">Niall has conducted remote-area biological research all over the world. Specialising in endangered species research, he graduated with a PhD in Conservation Biology from Cardiff University in 2015.</h6>
+               <h6 class="sn" style="color:black;padding-top:44px; ">Fermentum nibh augue praesent a lacus at urna congue rutrum.</h6>
             <button class="button"><strong>Find Out More</strong></button>
           </div>
        </div>
 
 
-           <div class="col-md-4">
+           <div class="col-md-3">
              <div class="sn">
-                <h4 style="text-align:center color:black;">Expeditions far and wide</h4>
+                <h4 style="text-align:center color:black;">Heading</h4>
                 <img
                   width="80%"
                   height="auto"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/964399b6-7d83-43cd-97c9-63a786a1b303.JPG/:/cr=t:0.77%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
+                  src="https://templated.co/items/demos/fervency/images/scr03.jpg"
                   class="attachment-medium size-medium"
                   alt=""
                   />
-                 <h6 class="sn" style="color:black;padding-top:50px; ">Since the age of 18 Niall has undertaken challenging expeditions all over the world, including rowing the Atlantic Ocean, skiing across Greenland, cycling over the Himalayas & canoeing the Yukon River.</h6>
+                 <h6 class="sn" style="color:black;padding-top:50px; ">Fermentum nibh augue praesent a lacus at urna congue rutrum.</h6>
+                 <button class="button"><strong>Find Out More</strong></button>
+              </div>
+          </div>
+
+          <div class="col-md-3">
+             <div class="sn">
+                <h4 style="text-align:center color:black;">Heading</h4>
+                <img
+                  width="80%"
+                  height="auto"
+                  src="https://templated.co/items/demos/fervency/images/scr03.jpg"
+                  class="attachment-medium size-medium"
+                  alt=""
+                  />
+                 <h6 class="sn" style="color:black;padding-top:50px; ">Fermentum nibh augue praesent a lacus at urna congue rutrum.</h6>
+                 <button class="button"><strong>Find Out More</strong></button>
               </div>
           </div>
 
         </div>
   </div>
 </div>
-
-
-
-          <div class="row">
-              <div class="col-md-4">
-                 <div class="sn">
-                    <h4 style="text-align:center; ">In The Spotlight</h4>
-                      <img
-                         width="80%"
-                         height="auto"
-                         src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/1a183255-ade0-4dcb-b273-bcd1a85e21bb.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                         class="attachment-medium size-medium"
-                         alt=""
-                          />
-                       <h6 class="sn" style="color:black; padding-top:40px;">Niall's adventures have been covered in the media for many years. He presented the award-winning documentary Lost in the Amazon, and two seasons of the multi award-winning Biggest and Baddest.</h6>
-                   </div>
-              </div>
-
-      <div class="col-md-4">
-         <div class="sn">
-           <h4 style="text-align:center color:black;">The conservation frontline</h4>
-             <img
-                  width="80%"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/e6ba05b7-22f9-4331-9384-385e2b7fa758.jpeg/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                  class="attachment-medium size-medium"
-                  alt=""
-                  />
-                <h6 class="sn" style="color:black;padding-top:44px; ">
-                Niall has worked in protected area law enforcement in Africa, Asia and Latin America. Focusing on anti-poaching operations, he is the Director of Conservation at National Park Rescue.</strong></h6></h6>
-               <button class="button"><strong>Find Out More</strong></button>
-          </div>
-       </div>
-
-
-           <div class="col-md-4">
-             <div class="sn">
-                <h4 style="text-align:center color:#f44336;">Giving back to the community</h4>
-                  <img
-                     width="80%"
-                     height="auto"
-                     src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/fac46ee4-8578-4e1f-8a11-cab8c228290d.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                     class="attachment-medium size-medium"
-                     alt=""
-                     />
-                    <h6 class="sn" style="color:black;padding-top:50px; text-align:justify;">
-                      Niall is a member of the Brecon Mountain Rescue Team, a Fellow of the Royal Geographical Society, Trustee of the Wallacea Trust and Ambassador for Embrace Physical Education. He lives in Cardiff with his wife Rachel.</h6>
-              </div>
-          </div>
-  </div>
+  
  
  <!--Speaking-->
  <div class="ftt">
     <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-        <h4 style="text-align:center; color:#f6142a;">Speaking</h4>
+        <h4 style="text-align:center; color:#f6142a;">Heading</h4>
          <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
          </div>
             <div class="row">
 
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div class="sn">
-                 <h4 style="text-align:center color:black;">Highly experienced speaker</h4>
-                  <img
-                     width="80%"
-                     height="auto"
-                     src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/36432453-d627-482d-8f66-a9670498d5e9.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                     class="attachment-medium size-medium"
-                     alt=""
-                     />
-                 <h6 class="sn" style="color:black; padding-top:40px;">Niall's grandfather won the Founder's Medal from the Royal Geographical Society in 1952 for Arctic exploration. Introduced to adventures from an early age, Niall has followed in his grandfather's footsteps.  </h6>
-        
+                 <h5 style=" color:black;">LOREUM</h5>
+                 <h5 style="text-align:center color:black;">Dolor sit amet vivamus</h5>
+                 <h6 class="sn" style="color:black; padding-top:40px;">Phasellus in ante vitae nibh porttitor tempus vitae ut ante.<br> Vestibulum blandit ex a elementum viverra. Sed quat diam,<br> aliquet tempus felis nisl at lacus. </h6>
+                  <br><button class="button"><strong>Find Out More</strong></button>
              </div>
           </div>
 
-      <div class="col-md-4">
-         <div class="sn">
-           <h4 style="text-align:center color:black;">Testimonials</h4>
-            <img
-                 width="80%"
-                 src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/04506a57-8ffc-438d-bfbf-cfdcf1b76fd3.jpg/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                  class="attachment-medium size-medium"
-                  alt=""
-                  />
-               <h6 class="sn" style="color:black;padding-top:44px;">Niall has conducted remote-area biological research all over the world. Specialising in endangered species research, he graduated with a PhD in Conservation Biology from Cardiff University in 2015.</h6>
-             <button class="button"><strong>Find Out More</strong></button>
-          </div>
-       </div>
 
 
-           <div class="col-md-4">
+           <div class="col-md-6">
              <div class="sn">
-                <h4 style="text-align:center color:black;">Book Niall for your event</h4>
-                <img
-                  width="80%"
-                  height="auto"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/0bbf88d6-adad-42da-b86b-6ef5af1ec561.jpg/:/cr=t:18.36%25,l:0%25,w:100%25,h:75.03%25/rs=w:360,h:180,cg:true"
-                  class="attachment-medium size-medium"
-                  alt=""
-                  />
-                 <h6 class="sn" style="color:black;padding-top:50px;">Since the age of 18 Niall has undertaken challenging expeditions all over the world, including rowing the Atlantic Ocean, skiing across Greenland, cycling over the Himalayas & canoeing the Yukon River.</h6>
+                <h5 style=" color:black;">MAGNA</h5>
+                <h5 style="text-align:center color:black;">Dolor sit amet vivamus</h5>
+                <h6 class="sn" style="color:black;padding-top:50px;">Phasellus in ante vitae nibh porttitor tempus vitae ut ante. <br>Vestibulum blandit ex a elementum viverra. Sed quat diam,<br> aliquet tempus felis nisl at lacus..</h6>
+                 <br><button class="button"><strong>Find Out More</strong></button>
               </div>
           </div>
 
@@ -212,7 +157,7 @@
 <!-- Video -->
 
       <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-          <h2 style="text-align:center; color:#f6142a;">Dr Niall McCann speaking at TEDx Cardiff</h2>
+          <h2 style="text-align:center; color:#f6142a;">Heading</h2>
       </div>
        <div style="width:800px; margin:0 auto;"> 
          <div class="embed-responsive embed-responsive-16by9"  style="width:120%; " >
@@ -223,117 +168,14 @@
 <!-- Media -->
 <div class="ftt">
   <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-        <h4 style="text-align:center; color:#f6142a;">Media</h4>
+        <h4 style="text-align:center; color:#f6142a;">Heading</h4>
          <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
          </div>
             <div class="row">
 
               <div class="col-md-4">
                 <div class="sn">
-                 <h4 style="text-align:center color:black;">Lost in the Amazon</h4>
-                  <img
-                     width="80%"
-                     height="auto"
-                     src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/f52afb8f-8c5f-408d-8df3-493e60b3d2f5.jpg/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                     class="attachment-medium size-medium"
-                     alt=""
-                     />
-                 <h6 class="sn" style="color:black;  padding-top:40px;">Niall's grandfather won the Founder's Medal from the Royal Geographical Society in 1952 for Arctic exploration. Introduced to adventures from an early age, Niall has followed in his grandfather's footsteps.  </h6>
-                  <button class="button"><strong>WATCH TRAILER</strong></button>
-             </div>
-          </div>
-
-      <div class="col-md-4">
-         <div class="sn">
-           <h4 style="text-align:center color:black;">Biggest and Baddest</h4>
-            <img
-                 width="80%"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/6480251d-09df-4d66-9222-0e7c8df7abb5.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
-                  class="attachment-medium size-medium"
-                  alt=""
-                    />
-               <h6 class="sn" style="color:black; padding-top:44px; ">Niall has conducted remote-area biological research all over the world. Specialising in endangered species research, he graduated with a PhD in Conservation Biology from Cardiff University in 2015.</h6>
-             <button class="button"><strong>WATCH SEASON2 TRAILER</strong></button>
-          </div>
-       </div>
-
-
-           <div class="col-md-4">
-             <div class="sn">
-                <h4 style="text-align:center color:black;">Media enquiries</h4>
-                <img
-                  width="80%"
-                  height="auto"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/37efa64c-6fdd-445a-bfa3-58d4f1218e29.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                  class="attachment-medium size-medium"
-                  alt=""
-                  />
-                 <h6 class="sn" style="color:black;padding-top:50px; ">Since the age of 18 Niall has undertaken challenging expeditions all over the world, including rowing the Atlantic Ocean, skiing across Greenland, cycling over the Himalayas & canoeing the Yukon River.</h6>
-                   <button class="button"><strong>CONTACT NIALL</strong></button>
-              </div>
-          </div>
-
-        </div>
-  </div>
-</div>
-
-<!-- Expeditions Far and wide -->
-
-    <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-        <h4 style="text-align:center; color:#f6142a;">Expeditions Far and wide</h4>
-         <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
-         </div>
-            <div class="row">
-
-              <div class="col-md-4">
-                <div class="sn">
-                 <h4 style="text-align:center color:black;">Mountain</h4>
-                  <img
-                     width="80%"
-                     height="auto"
-                     src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/848b5a99-f3a7-4d58-a4db-2c131f0fb034.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                     class="attachment-medium size-medium"
-                     alt=""
-                     />
-                 <h6 class="sn" style="color:black; padding-top:40px;">Niall has been on multiple rock climbing, big-walling and mountaineering expeditions, and twice cycled over the Himalayas..  </h6>
-        
-             </div>
-          </div>
-
-      <div class="col-md-4">
-         <div class="sn">
-           <h4 style="text-align:center color:black;">Polar</h4>
-            <img
-                 width="80%"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/828d2e57-7919-46f7-86e5-8373224671f7.JPG/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
-                  class="attachment-medium size-medium"
-                  alt=""
-                  />
-               <h6 class="sn" style="color:black;padding-top:44px; ">Niall has been on two major expeditions to the Arctic, including skiing across Greenland from East to West in 2009. </h6>
-            
-          </div>
-       </div>
-
-
-        <div class="col-md-4">
-            <div class="sn">
-               <h4 style="text-align:center color:black;">Ocean</h4>
-                <img
-                  width="80%"
-                  height="auto"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/a6747616-ac82-4840-aba1-4f6b9c320378.JPG/:/cr=t:33.33%25,l:0%25,w:100%25,h:66.67%25/rs=w:360,h:180,cg:true"
-                  class="attachment-medium size-medium"
-                  alt=""
-                  />
-                 <h6 class="sn" style="color:black;padding-top:50px; ">In 2007 Niall and his friend James Burge rowed across the Atlantic Ocean, making the crossing in 63 days.</h6>
-              </div>
-          </div>
-
-           <div class="row">
-
-              <div class="col-md-4">
-                <div class="sn">
-                 <h4 style="text-align:center color:black;">Jungle</h4>
+                 <h4 style="text-align:center color:black;">Heading</h4>
                   <img
                      width="80%"
                      height="auto"
@@ -341,104 +183,52 @@
                      class="attachment-medium size-medium"
                      alt=""
                      />
-                 <h6 class="sn" style="color:black; padding-top:40px;">Niall has spent well over two years on expeditions in remote jungle environments in Latin America, Asia and Africa.</h6>
-        
+                 <h6 class="sn" style="color:black;  padding-top:40px;">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm. </h6>
+                  <button class="button"><strong>WATCH TRAILER</strong></button>
              </div>
           </div>
 
       <div class="col-md-4">
          <div class="sn">
-           <h4 style="text-align:center color:black;">Desert</h4>
+           <h4 style="text-align:center color:black;">Heading</h4>
             <img
-                  width="80%"
-                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/9384d24c-2cf1-451b-a3eb-c6ddee4607fa.jpg/:/cr=t:18.26%25,l:0%25,w:100%25,h:81.74%25/rs=w:360,h:180,cg:true"
-                   class="attachment-medium size-medium"
-                   alt=""
-                   />
-                  <h6 class="sn" style="color:black;padding-top:44px;">
-                  Niall has spent many months working in sub-Saharan Africa, including 3 months living in the Namib Desert.</strong></h6></h6>
-               
+                 width="80%"
+                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4410728b-4e7d-4b04-9af3-3a2c52475e9a.JPG/:/cr=t:25.01%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
+                  class="attachment-medium size-medium"
+                  alt=""
+                    />
+               <h6 class="sn" style="color:black; padding-top:44px; ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
+              
+             <button class="button"><strong>WATCH SEASON2 TRAILER</strong></button>
           </div>
        </div>
 
 
            <div class="col-md-4">
              <div class="sn">
-                <h4 style="text-align:center color:black;">Local</h4>
+                <h4 style="text-align:center color:black;">Heading</h4>
                 <img
-                    width="80%"
-                    height="auto"
-                    src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/ae4fa290-03e0-40e8-b992-c3adfda306b7.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
-                    class="attachment-medium size-medium"
-                    alt=""
-                    />
-                    <h6 class="sn" style="color:black;padding-top:50px; ">
-                     Many of the best adventures happen close to home. Niall is an avid micro-adventurer & member of Brecon Mountain Rescue Team.</h6>
-              </div>
-           </div>
-
-         </div>
-
-        </div>
-  </div>
-
-
-<!-- Conservation frontline-->
-<div class="ftt">
-    <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-        <h4 style="text-align:center; color:#f6142a;">The Conservation Frontline</h4>
-         <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
-         </div>
-            <div class="row">
-
-              <div class="col-md-4">
-                <div class="sn">
-                 <h4 style="text-align:center color:black;">Taking Stand</h4>
-                  <img
-                     width="80%"
-                     height="auto"
-                     src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/41df71e5-f41b-4484-958f-acf9cff73b3e.jpg/:/cr=t:19.6%25,l:26.16%25,w:52.09%25,h:39.06%25/rs=w:360,h:180,cg:true,m"
-                     class="attachment-medium size-medium"
-                     alt=""
-                     />
-                 <h6 class="sn" style="color:black;  padding-top:40px;">Niall has been on multiple rock climbing, big-walling and mountaineering expeditions, and twice cycled over the Himalayas..  </h6>
-        
-             </div>
-          </div>
-
-      <div class="col-md-4">
-         <div class="sn">
-           <h4 style="text-align:center color:black;">National Park Rescue</h4>
-            <img
-                 width="30%"
-                 src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/940f180a-753c-492c-a4a2-544a9ce38b27.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:180,cg:true"
+                  width="80%"
+                  height="auto"
+                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4410728b-4e7d-4b04-9af3-3a2c52475e9a.JPG/:/cr=t:25.01%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
                   class="attachment-medium size-medium"
                   alt=""
                   />
-               <h6 class="sn" style="color:black;padding-top:44px; ">Niall has been on two major expeditions to the Arctic, including skiing across Greenland from East to West in 2009. </h6>
-             <button class="button"><strong>VISIT National PARK Rescue WEBSITE</strong></button>
-          </div>
-       </div>
-
-
-           <div class="col-md-4">
-             <div class="sn">
-                <h4 style="text-align:center color:black;">The Wallacea Trust</h4>
-                <img
-                   width="60%"
-                   height="auto"
-                   src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/6f863ec6-1c7c-4de1-a40a-75d1618080bc.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:360,h:180,cg:true"
-                   class="attachment-medium size-medium"
-                   alt=""
-                  />
-                 <h6 class="sn" style="color:black;padding-top:50px; ">In 2007 Niall and his friend James Burge rowed across the Atlantic Ocean, making the crossing in 63 days.</h6>
+               <h6 class="sn" style="color:black; padding-top:44px; ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
+                
+                   <button class="button"><strong>CONTACT </strong></button>
               </div>
           </div>
-    </div>
+
+        </div>
   </div>
 </div>
 
+
+
+
 <!--Carousal  photo Gallery-->
+
   <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
    <h4 style="text-align:center; color:#f6142a;">Photo Gallery</h4>
   </div>
@@ -481,53 +271,65 @@
       </b-carousel-slide>
     </b-carousel>
     </div>
+  
     
 <!-- Contact Niall  -->
-<div class="ftt">
+  <div class="ftt">
   <div  v-if="!seen">
     <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-           <h4 style="text-align:center; color:#f6142a;"><strong>Contact Niall</strong></h4>
+           <h4 style="text-align:center; color:#f6142a;"><strong>Contact </strong></h4>
         <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
         </div>
-           <h4 style="text-align:center color:#f44336;"><strong>Book Niall to speak at your school or event</strong></h4>
-           <h5 style="text-align:center color:#f44336;">Or simply write to ask a question or say hello.</h5>
+           <h4 style="text-align:center color:#f44336;"><strong>Integer pulvinar leo id viverra feugiat.</strong></h4>
+           <h5 style="text-align:center color:#f44336;">Integer pulvinar leo id viverra feugiat..</h5>
          <br>
-           <h5 style="text-align:center color:#f44336;">For speaking engagements in the UK email: dion@speakersfromtheedge.com </h5>
-           <h5 style="text-align:center color:#f44336;">For speaking engagements in the USA email: scott@wolfmanproductions.com</h5>
+           <h5 style="text-align:center color:#f44336;">Integer pulvinar leo id viverra feugiat.</h5>
+           <h5 style="text-align:center color:#f44336;">Integer pulvinar leo id viverra feugiat.</h5>
          <br>
-           <h5 style="text-align:center color:#f44336;">Or to write to Niall directly:</h5>
+           <h5 style="text-align:center color:#f44336;">Integer pulvinar leo id viverra feugiat.:</h5>
          <br>
      </div>
      
-         <button class="button"  v-on:click="seen =!seen">Drop Niall a Line</button>
+         <button class="button"  v-on:click="seen =!seen">Drop  a Line</button>
         </div>
-
+</div>
         
   
-</div>
+
+<br>
 
 <!--Contact-->
- <div v-if="seen">
-<div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-   <h4 style="text-align:center; color:#f6142a;">Drop nail a line</h4>
-  </div>
-   <div style="width:800px; margin:0 auto;"> 
+<div class="ftt">
+   <div v-if="seen">
+      <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
+         <h4 style="text-align:center; color:#f6142a;">Drop nail a line</h4>
+         <div class="close">
+          <a href="" class="close-icon"></a>
+       </div>
+      </div>
+       <div style="width:800px; margin:0 auto;"> 
+       <br>
   <form>
-    <div class="form-group">
-      <label for="email">Name:</label>
-      <input type="text" class="form-control" id="name" placeholder="Enter name" name="name" >
-    </div>
-    <div class="form-group">
-      <label for="pwd">Email:</label>
-      <input type="email" class="form-control" id="pwd" placeholder="Enter Email" name="pswd">
-    </div>
-    
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </form>
-  <br>
-  </div></div>
+       <div class="rr">
+          <div class="form-group">
+             <input type="text"  class="form-control" id="name" placeholder=" Name" name="name" style="width:70%; " >
+          </div>
+        <div class="form-group">
+            <input type="email" class="form-control" id="pwd" placeholder=" Email" name="pswd" style="width:70%;">
+        </div>
+      </div>
+            <textarea rows = "5" cols = "50" name = "description" >
+              MESSAGE
+            </textarea>
+         <br>
+           <button type="submit" class="button">SEND</button>
+           <button type="submit" class="button">CANCEL</button>
+   </form>
+         <br>
+</div>
+  </div>
 
-
+  </div>
 </div>
 </template>
 
@@ -658,4 +460,29 @@ h6 {
   display: flex;
   align-items: center;
      }
+     .sv{
+       padding-left:800px;
+     }
+     .close-icon
+{
+  display:block;
+  box-sizing:border-box;
+  width:20px;
+  height:20px;
+  border-width:3px;
+  border-style: solid;
+  border-color:red;
+  border-radius:100%;
+  background: -webkit-linear-gradient(-45deg, transparent 0%, transparent 46%, white 46%,  white 56%,transparent 56%, transparent 100%), -webkit-linear-gradient(45deg, transparent 0%, transparent 46%, white 46%,  white 56%,transparent 56%, transparent 100%);
+  background-color:red;
+  box-shadow:0px 0px 5px 2px rgba(0,0,0,0.5);
+  transition: all 0.3s ease;
+  
+}
+.rr{
+  padding-left:180px;
+}
+.close{
+  padding-right:450px;
+}
 </style>
