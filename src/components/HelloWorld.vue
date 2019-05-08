@@ -166,70 +166,95 @@
       </div>
 
 <!-- Media -->
-<div class="ftt">
+
   <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
-        <h4 style="text-align:center; color:#f6142a;">Heading</h4>
+         <h4 style="text-align:center; color:#f6142a;">Heading</h4>
          <div class="row" style="margin-bottom:20px; text-align:center;"><h5 class="snake" style="color:black;"><strong></strong></h5>
          </div>
+          
+          <div class="ftt">
             <div class="row">
-
               <div class="col-md-4">
-                <div class="sn">
-                 <h4 style="text-align:center color:black;">Heading</h4>
-                  <img
+                 <img
                      width="80%"
                      height="auto"
                      src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4410728b-4e7d-4b04-9af3-3a2c52475e9a.JPG/:/cr=t:25.01%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
                      class="attachment-medium size-medium"
                      alt=""
                      />
-                 <h6 class="sn" style="color:black;  padding-top:40px;">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm. </h6>
-                  <button class="button"><strong>WATCH TRAILER</strong></button>
-             </div>
-          </div>
+              </div>
 
-      <div class="col-md-4">
-         <div class="sn">
-           <h4 style="text-align:center color:black;">Heading</h4>
-            <img
+          <div class="col-md-8">
+             <div class="sn">
+                 <h4 style=" color:black;padding-right:590px;">Heading</h4>
+                <h6 class="sn" style="color:black; ;">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm. </h6> 
+              </div>
+          </div>
+          </div>
+        </div>
+          
+
+     <div class="row">
+      <div class="col-md-8">
+          <div class="sn">
+           <h4 style="color:black; padding-right:660px;">Heading</h4>
+          <h6 class="sn" style="color:black; ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
+          </div>
+        </div>
+
+         <div class="col-md-4">
+             <img
                  width="80%"
                   src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4410728b-4e7d-4b04-9af3-3a2c52475e9a.JPG/:/cr=t:25.01%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
                   class="attachment-medium size-medium"
                   alt=""
                     />
-               <h6 class="sn" style="color:black; padding-top:44px; ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
-              
-             <button class="button"><strong>WATCH SEASON2 TRAILER</strong></button>
           </div>
-       </div>
+        </div>
 
-
-           <div class="col-md-4">
-             <div class="sn">
-                <h4 style="text-align:center color:black;">Heading</h4>
-                <img
+    <div class="ftt">
+      <div class="row">
+       <div class="col-md-4">
+            <img
                   width="80%"
                   height="auto"
                   src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4410728b-4e7d-4b04-9af3-3a2c52475e9a.JPG/:/cr=t:25.01%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
                   class="attachment-medium size-medium"
                   alt=""
                   />
-               <h6 class="sn" style="color:black; padding-top:44px; ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
-                
-                   <button class="button"><strong>CONTACT </strong></button>
-              </div>
-          </div>
+             </div>
 
+          <div class="col-md-8">
+             <div class="sn">
+                <h4 style="padding-right:590px; color:black;">Heading</h4>
+               <h6 class="sn" style="color:black;  ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
+            </div>    
+          </div>
         </div>
-  </div>
 </div>
 
+<div class="row">
+      <div class="col-md-8">
+          <div class="sn">
+           <h4 style="color:black; padding-right:660px;">Heading</h4>
+          <h6 class="sn" style="color:black; ">Integer pulvinar leo id viverra feugiat. Pellentesque libero justo, semper at tempus vel, ultrices in ligula. Nulla uter sollicitudin velit. Sed porttitor orci vel ferm.</h6>
+          </div>
+        </div>
 
-
+         <div class="col-md-4">
+             <img
+                 width="80%"
+                  src="https://img1.wsimg.com/isteam/ip/5abd5167-563b-48a9-94e9-5ed58bc0fbf8/4410728b-4e7d-4b04-9af3-3a2c52475e9a.JPG/:/cr=t:25.01%25,l:0%25,w:100%25,h:74.99%25/rs=w:360,h:180,cg:true"
+                  class="attachment-medium size-medium"
+                  alt=""
+                    />
+          </div>
+        </div>
+  
+</div>
 
 <!--Carousal  photo Gallery-->
-
-  <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
+ <div style="margin-top:50px; padding-bottom:40px;padding-top:30px;">
    <h4 style="text-align:center; color:#f6142a;">Photo Gallery</h4>
   </div>
    <div style="width:800px; margin:0 auto;"> 
@@ -289,13 +314,9 @@
            <h5 style="text-align:center color:#f44336;">Integer pulvinar leo id viverra feugiat.:</h5>
          <br>
      </div>
-     
-         <button class="button"  v-on:click="seen =!seen">Drop  a Line</button>
+     <button class="button"  v-on:click="seen =!seen">Drop  a Line</button>
         </div>
 </div>
-        
-  
-
 <br>
 
 <!--Contact-->
@@ -406,7 +427,7 @@ bt{
   text-align: center;
             }
 .sn{
-  margin-top: 20px;
+  margin-top: 15px;
   margin-bottom:15px;
   
       }
